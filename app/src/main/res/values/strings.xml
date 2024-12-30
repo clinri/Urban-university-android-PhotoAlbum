@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PhotoAlbum</string>
+    <string name="name_album">Вас приветствует альбом \"Красивейшие места России\"</string>
+    <string name="start_view">Начать просмотр</string>
+    <string name="next_photo">Следующее фото</string>
+    <string name="text_goodbye">Спасибо за просмотр! До свидания</string>
+    <string name="exit">Выйти</string>
 </resources>
